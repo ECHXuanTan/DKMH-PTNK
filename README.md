@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 Ứng dụng được xây dựng để cho phép học sinh khối 10 đăng ký môn tự chọn và nhà trường quản lý kết quả đăng ký.
-Link: dkmh.ptnk.edu.vn
+Link: [dkmh.ptnk.edu.vn](https://dkmh.ptnk.edu.vn/)
 
 ## Cấu Trúc Thư Mục
 - `client/` - Chứa mã nguồn React cho phần front-end.
